@@ -20,3 +20,4 @@ languages: JS, php, html/css, SQL
 tools: MySQL workbench, WinSCP (SFTP), VScode
 
 DB server: CS1 at Seattle University
+https://css1.seattleu.edu/~sfoss/
