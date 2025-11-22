@@ -16,6 +16,11 @@ Security:
 - input validation
 - 2NF normalization
 
+Please pentest!
+
+Known vulnerabilities:
+- non-paramaterized queries allow for SQL injection
+
 languages: JS, php, html/css, SQL
 tools: MySQL workbench, WinSCP (SFTP), VScode
 
